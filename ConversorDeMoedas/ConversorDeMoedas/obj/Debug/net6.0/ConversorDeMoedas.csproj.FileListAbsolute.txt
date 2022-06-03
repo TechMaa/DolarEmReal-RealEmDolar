@@ -1,0 +1,15 @@
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.exe
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.deps.json
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.runtimeconfig.json
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.dll
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ref\ConversorDeMoedas.dll
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.pdb
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.csproj.AssemblyReference.cache
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.AssemblyInfo.cs
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.dll
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ref\ConversorDeMoedas.dll
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.pdb
+C:\Users\matheuscs\Documents\ConversorDeMoedas\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.genruntimeconfig.cache
